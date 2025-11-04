@@ -1,0 +1,1 @@
+This is a small project that i have built while learning the concepts of MongoDb This is a simple chats system where you can create, edit and Delete the chats. All the Data will be stored in the MongoDb database.
